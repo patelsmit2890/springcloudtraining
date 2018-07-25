@@ -1,5 +1,5 @@
 test:
-  message: Smit - Prod
+  message: Smit
   
 server:
   port: 0
